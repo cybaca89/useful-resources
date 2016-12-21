@@ -35,3 +35,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## API and Projects
+This is my personal compilations of documents, papers, articles, repos, source code, and overall interesting and educational content that I've feel may be useful as resources for becoming a stronger programmer.
+
+### Fortran
+[Awesome Fortran](https://github.com/rabbiabram/awesome-fortran). A curated list of awesome Fortran frameowkrs, libraries and software.
+
+
+## SourceCode
+
+### C
+[Daala](https://github.com/xiph/daala) New video compression technology
+
+## Lessons
+
+### C++
+[Tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki). Walkthrough of dependency-free rendering engine built from scratch in order to get an understanding of how Graphics libraries like OpenGL run underneath the hood
+
+## Algorithms.
+
+[Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
