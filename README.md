@@ -25,22 +25,60 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Programming Resource Compilation
+This is my personal compilations of documents, papers, articles, repos, source code, and overall interesting and educational content that I've feel may be useful as resources for becoming a stronger programmer.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cybaca89/useful-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## Algorithms.
+
+[Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
+
+[inconvergent.net](http://inconvergent.net/) Graphics and growth algorithms.
+
+[Texture generation using random noise](http://lodev.org/cgtutor/randomnoise.html)
+
+[Underhanded C Contest](http://www.underhanded-c.org/)
+
+[Binary Space Partitioning](https://www.opengl.org/archives/resources/code/samples/bspfaq/index.html)
+
+
+
+
+
 
 ## API and Projects
-This is my personal compilations of documents, papers, articles, repos, source code, and overall interesting and educational content that I've feel may be useful as resources for becoming a stronger programmer.
 
 ### Fortran
 [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran). A curated list of awesome Fortran frameowkrs, libraries and software.
+
+
+
+
+
+## Documentation
+
+### Go
+
+[Gopher Academy](https://blog.gopheracademy.com/)
+
+### SAC
+
+[SAC-Home](http://www.sac-home.org/doku.php?id=about:sac)
+
+
+
+
+
+## Networking
+
+[Adaptive query optimizaion](https://github.com/tigvarts/aqo)Adaptive query optimization is the extension of standard PostgreSQL cost-based query optimizer.
+
+
 
 
 ## SourceCode
@@ -48,11 +86,43 @@ This is my personal compilations of documents, papers, articles, repos, source c
 ### C
 [Daala](https://github.com/xiph/daala) New video compression technology
 
-## Lessons
+### Go
+
+[NATS Cloud Native Messaging System](https://github.com/nats-io)
+
+
+
+
+## Tutorials
+
+### Blog
+
+[LeMoDa](https://www.lemoda.net/index.html)
 
 ### C++
 [Tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki). Walkthrough of dependency-free rendering engine built from scratch in order to get an understanding of how Graphics libraries like OpenGL run underneath the hood
 
-## Algorithms.
+### Haskell
 
-[Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
+[Haskell and Monads](http://www.engr.mun.ca/~theo/Misc/haskell_and_monads.htm)
+
+### C
+
+[Fluid Simulation](https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-7)
+
+
+
+
+
+## Unix
+
+[USING AND LINKING LIBRARY CODE](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
+
+[Reversing Go binaries](https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/)
+
+[Compiler Explorer](http://godbolt.org/)
+
+
+## Etc
+
+[Chess and analytics](https://en.lichess.org/)
