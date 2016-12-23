@@ -1,7 +1,5 @@
 ## Algorithms.
 
-[Algorithms](https://github.com/algorithms.md)
-
 [Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
 
 [inconvergent.net](http://inconvergent.net/) Graphics and growth algorithms.
