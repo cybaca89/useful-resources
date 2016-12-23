@@ -1,56 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cybaca89/useful-resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-# Programming Resource Compilation
-This is my personal compilations of documents, papers, articles, repos, source code, and overall interesting and educational content that I've feel may be useful as resources for becoming a stronger programmer.
-
-
-
-
-
-## Algorithms.
-
-[Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
-
-[inconvergent.net](http://inconvergent.net/) Graphics and growth algorithms.
-
-[Texture generation using random noise](http://lodev.org/cgtutor/randomnoise.html)
-
-[Underhanded C Contest](http://www.underhanded-c.org/)
-
-[Binary Space Partitioning](https://www.opengl.org/archives/resources/code/samples/bspfaq/index.html)
-
-
-
-
-
-
 ## API and Projects
 
 ### Fortran
@@ -62,6 +9,8 @@ This is my personal compilations of documents, papers, articles, repos, source c
 
 ## Documentation
 
+[Kernel coding style](https://www.kernel.org/doc/Documentation/CodingStyle)
+
 ### Go
 
 [Gopher Academy](https://blog.gopheracademy.com/)
@@ -69,6 +18,10 @@ This is my personal compilations of documents, papers, articles, repos, source c
 ### SAC
 
 [SAC-Home](http://www.sac-home.org/doku.php?id=about:sac)
+
+### C
+
+[the GNU Compiler Collection](https://gcc.gnu.org/) aka, the most important site on the entire www.
 
 
 
@@ -110,6 +63,10 @@ This is my personal compilations of documents, papers, articles, repos, source c
 
 [Fluid Simulation](https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-7)
 
+### Unix
+
+[Hack the Kernel](https://www.ops-class.org/)
+
 
 
 
@@ -126,3 +83,5 @@ This is my personal compilations of documents, papers, articles, repos, source c
 ## Etc
 
 [Chess and analytics](https://en.lichess.org/)
+
+[C gibberish <--> English](http://cdecl.ridiculousfish.com/)
