@@ -118,6 +118,9 @@
 ### Fortran
 [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran). A curated list of awesome Fortran frameowkrs, libraries and software.
 
+### Haskell
+[Teleport](http://bollu.github.io/teleport/)
+
 
 
 
@@ -174,6 +177,8 @@
 ### Haskell
 [Haskell and Monads](http://www.engr.mun.ca/~theo/Misc/haskell_and_monads.htm)
 
+[Functions](https://www.haskell.org/tutorial/functions.html)
+
 ### C
 [Fluid Simulation](https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-7)
 
@@ -218,3 +223,5 @@
 [Terminal color scheme generator](https://terminal.sexy/)
 
 [Will do this some day](https://m.xkcd.com/941/)
+
+[Words to Avoid (or Use with Care) Because They are Loaded or Confusing](https://www.gnu.org/philosophy/words-to-avoid.en.html)
