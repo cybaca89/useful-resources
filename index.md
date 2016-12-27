@@ -73,6 +73,8 @@
 
 [Graphics programming blackbook](https://github.com/mcmihai/GPBB)
 
+[Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+
 ### Papers
 [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787)
 
@@ -91,6 +93,12 @@
 
 [Passion for Infosec](https://thepcn3rd.blogspot.com/)
 
+### Go
+[Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+
+[Webdev GoLang Anti-Texbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+
+[Learn Server Programming](https://github.com/golang/go/wiki/LearnServerProgramming)
 
 
 ## SourceCode
@@ -114,6 +122,8 @@
 [NATS Cloud Native Messaging System](https://github.com/nats-io)
 
 [Universally Unique Lexicographically Sortable Identifier](https://github.com/oklog/ulid)
+
+[Example of a 3-layer (frontend, API, datastore) Go Webapp](https://github.com/sourcegraph/thesrc)
 
 ### Fortran
 [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran). A curated list of awesome Fortran frameowkrs, libraries and software.
