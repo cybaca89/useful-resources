@@ -4,6 +4,8 @@
 
 ## Algorithms.
 
+[Nayuki, holy fuck](https://www.nayuki.io/)
+
 [Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
 
 [inconvergent.net](http://inconvergent.net/) Graphics and growth algorithms.
@@ -30,19 +32,22 @@
 
 [Bitmap/Midpoint circle algorithm](http://rosettacode.org/wiki/Bitmap/Midpoint_circle_algorithm#C)
 
+[Hackers Delight](http://hackersdelight.org/hdcode.htm)
 
+[strchr.com](https://www.strchr.com/links)
 
-
+[Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 
 
 ## API and Projects
 
 [linuxbrew](http://linuxbrew.sh/)
 
+[Project Euler.net](https://projecteuler.net/)
+
 ## Data
 
 [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
-
 
 
 
@@ -55,6 +60,10 @@
 [x86,x64 Instruction Latency, Memory Latency, and CPUID dumps](http://instlatx64.atw.hu/)
 
 [CFI directives](https://sourceware.org/binutils/docs/as/CFI-directives.html)
+
+[Hyperpolyglot](http://hyperpolyglot.org/)
+
+[Writing a Tiny x86 Bootloader](http://joebergeron.io/posts/post_two.html)
 
 ### Go
 [Gopher Academy](https://blog.gopheracademy.com/)
@@ -118,6 +127,8 @@
 
 [nuklear](https://github.com/mcmihai/nuklear)
 
+[i3 Window Manager](https://github.com/i3/i3)
+
 ### Go
 [NATS Cloud Native Messaging System](https://github.com/nats-io)
 
@@ -159,6 +170,19 @@
 
 [nothings.org](ttp://nothings.org/)
 
+### Podcast
+
+[Changelog](https://changelog.com/podcasts)
+
+[Data Skeptic](http://dataskeptic.com/podcast)
+
+[Type Theorist](http://typetheorypodcast.com/)
+
+### x86
+
+[Paul Hsieh's x86 Assembly](http://www.azillionmonkeys.com/qed/asm.html)
+
+[Simply FPU by Raymond Filiatreault](http://www.website.masmforum.com/tutorials/fptute/)
 
 ### C++
 [Tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki). Walkthrough of dependency-free rendering engine built from scratch in order to get an understanding of how Graphics libraries like OpenGL run underneath the hood
@@ -180,7 +204,6 @@
 
 [Is it possible to write a temple to check for a functions's existence](https://stackoverflow.com/questions/257288/is-it-possible-to-write-a-template-to-check-for-a-functions-existence/9154394#9154394)
 
-
 ### Git
 [Git Cheat SHeet](https://gist.github.com/akras14/3d242d80af8388ebca60)
 
@@ -188,6 +211,8 @@
 [Haskell and Monads](http://www.engr.mun.ca/~theo/Misc/haskell_and_monads.htm)
 
 [Functions](https://www.haskell.org/tutorial/functions.html)
+
+[The Programatica Project](http://programatica.cs.pdx.edu/papers.html)
 
 ### C
 [Fluid Simulation](https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-7)
@@ -218,6 +243,8 @@
 [Reversing Go binaries](https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/)
 
 [Compiler Explorer](http://godbolt.org/)
+
+[How to Create a Virus Using the Assembly Language](https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/)
 
 
 ## Etc
