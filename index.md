@@ -221,6 +221,8 @@
 
 [The new C standards are worth it](http://lemire.me/blog/2016/09/14/the-new-c-standards-are-worth-it/)
 
+[betteros.org](http://betteros.org/) Low level C networking and graphics.
+
 ### Unix
 [Hack the Kernel](https://www.ops-class.org/)
 
