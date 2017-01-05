@@ -45,6 +45,7 @@
 
 [Project Euler.net](https://projecteuler.net/)
 
+
 ## Data
 
 [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
@@ -232,11 +233,19 @@
 
 [Recovering deleted files using only grep](http://blog.nullspace.io/recovering-deleted-files-using-only-grep.html)
 
+
+
 ### Design Patterns
+
 [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/)
 
+[Linux kernel design patterns P1](https://lwn.net/Articles/336224/)
 
 
+
+## Graphics
+
+[Taichi.graphics](http://taichi.graphics/) c++ 11 graphics library.
 
 
 ## Unix
