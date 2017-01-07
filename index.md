@@ -45,6 +45,8 @@
 
 [Project Euler.net](https://projecteuler.net/)
 
+[Yet Another Framebuffer Terminal](https://github.com/uobikiemukot/yaft)
+
 
 ## Data
 
