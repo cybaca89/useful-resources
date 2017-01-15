@@ -268,6 +268,8 @@
 
 ## Etc
 
+[Productivity vs Busy](http://www.jacksimpson.co/finishing-being-productive-busy/)
+
 [Chess and analytics](https://en.lichess.org/)
 
 [C gibberish <--> English](http://cdecl.ridiculousfish.com/)
