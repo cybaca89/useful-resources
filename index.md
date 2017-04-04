@@ -4,7 +4,7 @@
 
 ## Algorithms.
 
-[Nayuki, holy fuck](https://www.nayuki.io/)
+[Nayuki](https://www.nayuki.io/)
 
 [Skip Lists](http://ticki.github.io/blog/skip-lists-done-right/)
 
