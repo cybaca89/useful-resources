@@ -187,11 +187,13 @@
 
 [Type Theorist](http://typetheorypodcast.com/)
 
-### x86
+### x86 / ARM
 
 [Paul Hsieh's x86 Assembly](http://www.azillionmonkeys.com/qed/asm.html)
 
 [Simply FPU by Raymond Filiatreault](http://www.website.masmforum.com/tutorials/fptute/)
+
+[Writing arm assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ### C++
 [Tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki). Walkthrough of dependency-free rendering engine built from scratch in order to get an understanding of how Graphics libraries like OpenGL run underneath the hood
@@ -243,6 +245,8 @@
 
 [blockloop.io](https://www.blockloop.io/)
 
+[linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
+
 
 
 ### Design Patterns
@@ -266,6 +270,8 @@
 [Compiler Explorer](http://godbolt.org/)
 
 [How to Create a Virus Using the Assembly Language](https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/)
+
+[Write your own os](http://mikeos.sourceforge.net/write-your-own-os.html)
 
 
 ## Etc
