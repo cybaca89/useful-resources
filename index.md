@@ -138,6 +138,8 @@
 
 [i3 Window Manager](https://github.com/i3/i3)
 
+[Paul Batchelor music and audio libs](https://github.com/PaulBatchelor)
+
 ### Go
 [NATS Cloud Native Messaging System](https://github.com/nats-io)
 
@@ -291,3 +293,5 @@
 [Will do this some day](https://m.xkcd.com/941/)
 
 [Words to Avoid (or Use with Care) Because They are Loaded or Confusing](https://www.gnu.org/philosophy/words-to-avoid.en.html)
+
+[Ask HN: DevOps learning resources](https://news.ycombinator.com/item?id=14652993)
