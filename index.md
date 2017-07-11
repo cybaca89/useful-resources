@@ -140,6 +140,10 @@
 
 [Paul Batchelor music and audio libs](https://github.com/PaulBatchelor)
 
+[Robert Elder C Programming](http://blog.robertelder.org/c_programming/)
+
+[cdecl - the C gibberish translator](https://github.com/ridiculousfish/cdecl-blocks)
+
 ### Go
 [NATS Cloud Native Messaging System](https://github.com/nats-io)
 
@@ -179,7 +183,7 @@
 
 [Molecular Musings](https://blog.molecular-matters.com/) C++
 
-[nothings.org](ttp://nothings.org/)
+[nothings.org](http://nothings.org/)
 
 ### Podcast
 
@@ -235,6 +239,8 @@
 [The new C standards are worth it](http://lemire.me/blog/2016/09/14/the-new-c-standards-are-worth-it/)
 
 [betteros.org](http://betteros.org/) Low level C networking and graphics.
+
+[CodeWithC - c algorithims and tutorials](www.codewithc.com)
 
 ### Unix
 [Hack the Kernel](https://www.ops-class.org/)
